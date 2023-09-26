@@ -1,5 +1,4 @@
 <h1>messages</h1>
 
-<div>
-  <%= @random_message.content %>
-</div>
+
+<%= @random_message ? @random_message.content : 'No messages available.' %>
