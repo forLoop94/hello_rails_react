@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route , Routes} from 'react-router-dom';
-import RandomMessage from "./Message.js";
+import RandomMessage from "./meassages.js";
 
 const App = () => {
     return(
