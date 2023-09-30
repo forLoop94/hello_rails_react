@@ -18,7 +18,7 @@ const RandomMessage = () => {
 
   return (
     <div>
-      <h1>Random Meassage</h1>
+      <h1>Random Message</h1>
       <p>{message}</p>
     </div>
   );
